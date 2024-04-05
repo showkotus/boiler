@@ -1,0 +1,1 @@
+Sat Apr 06 2024 1 39 17 [Showkot] error: Database connection failure. The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.

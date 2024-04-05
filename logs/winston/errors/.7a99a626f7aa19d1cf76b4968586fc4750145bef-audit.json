@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\boiler\\logs\\winston\\errors\\.7a99a626f7aa19d1cf76b4968586fc4750145bef-audit.json",
+    "files": [
+        {
+            "date": 1712345917365,
+            "name": "C:\\Projects\\boiler\\logs\\winston\\errors\\uni-2024-04-06-01-error.log",
+            "hash": "06346d1decbe8c055ee857c47c0ddca9362cefe5ba0db5d228c761b5422d3ef4"
+        }
+    ],
+    "hashType": "sha256"
+}
